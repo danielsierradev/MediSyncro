@@ -76,7 +76,7 @@ MediSyncro permite al personal de brigadas médicas:
 | 11 | Exportar PDF | Generación de reportes clínicos |
 | 🖥️ | Panel web médico | Dashboard con tabla de pacientes sincronizados |
 
-🎨 **Ver prototipo en Figma:** [[Enlace al prototipo](https://www.figma.com/tu-enlace-aqui)](https://www.figma.com/design/g80EdSgkTcGQ8qkygyCegM/MediSyncro?node-id=0-1&t=8QQiQWp0rdUaB2Ql-1)
+🎨 **Ver prototipo en Figma:**(https://www.figma.com/tu-enlace-aqui)](https://www.figma.com/design/g80EdSgkTcGQ8qkygyCegM/MediSyncro?node-id=0-1&t=8QQiQWp0rdUaB2Ql-1)
 
 ---
 
