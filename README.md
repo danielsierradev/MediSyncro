@@ -77,6 +77,7 @@ MediSyncro permite al personal de brigadas médicas:
 | 🖥️ | Panel web médico | Dashboard con tabla de pacientes sincronizados |
 
 🎨 **Ver prototipo en Figma:**(https://www.figma.com/design/g80EdSgkTcGQ8qkygyCegM/MediSyncro?node-id=0-1&t=8QQiQWp0rdUaB2Ql-1)
+**Panel web:** https://www.figma.com/design/cDzsjhGDycEZntl2UUW3gW/MediSyncro---Panel-web?node-id=0-1&t=DNrPmiPSlkLogzlT-1
 
 ---
 
